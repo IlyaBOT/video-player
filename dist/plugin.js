@@ -1,4 +1,4 @@
-exports.version = 1.0
+exports.version = 1.1
 exports.description = "Mini video player by IlyaBOT"
 exports.apiRequired = 5
 exports.repo = "IlyaBOT/video-player"
