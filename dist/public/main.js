@@ -1,5 +1,5 @@
 HFS.onEvent('afterEntryName', ({ entry }) =>
-    /\.(mp4|avi|mkv|mov|wmv)$/.test(entry.n) &&
+    /\.(mp4|mov|wmv)$/.test(entry.n) &&
         `<button class='play-button' onclick='videoplay("${entry.n}")' />`)
 
 function videoplay(name = '') {
