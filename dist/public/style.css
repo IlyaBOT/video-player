@@ -1,3 +1,13 @@
+.play-button {
+    font-size: 0.7em;
+    padding: 0.2em 0.4em;
+    margin-left: 0.4em;
+    vertical-align: bottom;
+}
+.play-button::before {
+    content: '▶';
+}
+
 #video-player {
     display: none;
     gap: 1em;
