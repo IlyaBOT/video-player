@@ -1,5 +1,6 @@
-# **Mini Video Player for [HFS](https://github.com/rejetto/hfs)**
-[HFS](https://github.com/rejetto/hfs) Simple Video player.
+# **Mini Video Player for [HFS 3](https://github.com/rejetto/hfs)** [*OUTDATED*]
+## [HFS](https://github.com/rejetto/hfs) Simple Video player.
+*The plugin no longer makes sense, because its functionality has been added to HFS*
 
 ## To play MKV files configure the MIME types as in the picture below:
 ![Screenshot of MIME types settings](https://user-images.githubusercontent.com/36928846/230871977-bb050df0-1f69-482d-a99f-a2d026c9f0b8.png)
